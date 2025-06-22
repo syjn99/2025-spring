@@ -1,4 +1,4 @@
-# CS330 - Operating Systems and Lab
+# CS330 - Operating Systems and Lab (A0)
 
 > Instructor: Insik Shin
 

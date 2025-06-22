@@ -2,7 +2,7 @@
 
 > Instructor: Sukyoung Ryu
 
-Learn how to design a programming language with a cumulative approach. All lectures are uploaded on [Coursera](https://www.coursera.org/instructor/~34120603).
+Learn how to design a programming language with a cumulative approach. All lectures are uploaded on [Coursera](https://www.coursera.org/instructor/~34120603). [Textbook](https://hjaem.info/itpl) was written by the instructor.
 
 ## Features
 

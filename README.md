@@ -1,6 +1,6 @@
 # Jun Song's 2025 Spring
 
-My personal (and also public) archive for 2025 Spring Semester at KAIST.
+My personal (and also public) archive for 2025 Spring Semester at KAIST. Check my retrospect [here](https://junsong.xyz/2025-h1-retrospect/). (and for Korean 🇰🇷, [here](https://junsong.xyz/ko/2025-h1/))
 
 ## GPA - 4.16/4.30
 
@@ -15,7 +15,3 @@ My personal best is [CS348](./cs348/).
 - [CS348 Introduction to Information Security](./cs348)
 - [CS420 Compiler Design](./cs420)
 - [EE488 Introduction to Cryptography Engineering](./ee488)
-
-## TODOs
-
-- [ ] Upload a retrospect for 2025 Spring
